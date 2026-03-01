@@ -1,0 +1,6 @@
+
+# Large local datasets
+/data/
+*.zip
+*.wav
+/midi_wavs/
